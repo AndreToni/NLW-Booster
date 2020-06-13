@@ -41,6 +41,7 @@ const CreatePoint = () => {
         email: '',
         whatsapp: '',
     })
+    
 
     const history = useHistory();
 
